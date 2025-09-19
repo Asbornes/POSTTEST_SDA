@@ -23,7 +23,7 @@ int main() {
         cout << "]" << endl;
     }
 
-    cout << "\nJumlah elemen pada genap adalah: "<< matriks[1][0] << " + " << matriks[1][1] << " + " << matriks[1][2] << " = "<< totalBarisGenap << endl;
+    cout << "\nJumlah elemen pada baris genap adalah: "<< matriks[1][0] << " + " << matriks[1][1] << " + " << matriks[1][2] << " = "<< totalBarisGenap << endl;
 
     return 0;
 }

@@ -29,7 +29,7 @@ int main() {
         cout << "--------------------" << endl;
     }
     
-    // Bubble Sort
+    // Bubble Sort coyy
     for (int i = 0; i < jumlahMahasiswa - 1; ++i) {
         for (int j = 0; j < jumlahMahasiswa - i - 1; ++j) {
             if (daftarMahasiswa[j].ipk > daftarMahasiswa[j + 1].ipk) {
